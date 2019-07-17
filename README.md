@@ -1,5 +1,7 @@
 # London Crypto Day 
 
+![London Crypto Day Logo](imgs/londoncrypto-logo.jpg)
+
 ## Date TBA
 
 ### Previous Events
