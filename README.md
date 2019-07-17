@@ -9,6 +9,8 @@ Google London
 
 Wednesday, October 11 at 10:00am
 
+## [Call for Talks](https://forms.gle/xeTmEshpFmu6Kt2i9)
+
 ### Previous Events
 * [March 2019](https://londoncryptoday19.splashthat.com/)
 * [2017](https://londoncryptoday.wordpress.com/)
