@@ -21,7 +21,7 @@ Friday, 11th October 2019 at 10:00am
 
 ## Sounds great, I'm in!
 
-Awesome! [RSVP here](http://docs/forms/d/e/1FAIpQLSdn4ts_2fAPmUJBnvpIsNYChrwOeiC7KYUn8DdmuvZ4VyZI2g/viewform)
+Awesome! [RSVP here](https://docs.google.com/forms/d/e/1FAIpQLSdn4ts_2fAPmUJBnvpIsNYChrwOeiC7KYUn8DdmuvZ4VyZI2g/viewform)
 to let us know you're coming.
 
 ## Speakers
