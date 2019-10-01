@@ -32,6 +32,7 @@ to let us know you're coming.
 * Phillipp Schoppmann, HIIG
 * Katriel Cohn-Gordon, Facebook
 * Will Shackleton, Facebook
+* Olya Ohrimenko, Microsoft
 
 ### Previous Events
 * [March 2019](https://londoncryptoday19.splashthat.com/)
