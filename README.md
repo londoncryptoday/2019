@@ -34,6 +34,28 @@ to let us know you're coming.
 * Will Shackleton, Facebook
 * Olya Ohrimenko, Microsoft
 
+## Agenda
+
+09:30 - 10:00: 	**Arrival**  
+10:00 - 10:10: 	**Welcome**
+
+10:10 - 11:00:  James Bell, The Alan Turing Institute: *The Privacy Blanket of the Shuffle Model*  
+11:00 - 11:50: 	Phillipp Schoppmann, HIIG: *Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning*  
+11:50 - 12:20: 	Will Shackleton, Facebook: *Facebook Over Tor*
+
+12:20 - 13:20: 	**Lunch**
+
+13:20 - 14:10: 	Gary Belvin, Google: *Key Transparency*  
+14:10 - 15:00:  Evgenios Kornaropoulos, UC Berkeley: *Attacks on Encrypted Databases Beyond the Uniform Query Distribution*
+
+15:00 - 15:20: 	**Coffee**
+
+15:20 - 16:10: 	Olya Ohrimenko, Microsoft: *Differentially Private Algorithms for Trusted Execution Environments*  
+16:10 - 16:40: 	Katriel Cohn-Gordon, Facebook: *Secure Messaging at Scale*
+
+16:40 - 16:45: 	**Close**  
+16:45 - 20:00:	**Happy hour(s)**
+
 ### Previous Events
 * [March 2019](https://londoncryptoday19.splashthat.com/)
 * [2017](https://londoncryptoday.wordpress.com/)
