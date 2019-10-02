@@ -36,7 +36,7 @@ to let us know you're coming.
 
 ## Agenda
 
-09:30 - 10:00: 	**Arrival**  
+09:15 - 10:00: 	**Arrival and breakfast**  
 10:00 - 10:10: 	**Welcome**
 
 10:10 - 11:00:  James Bell, The Alan Turing Institute: *The Privacy Blanket of the Shuffle Model*  
