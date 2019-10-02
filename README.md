@@ -29,7 +29,7 @@ to let us know you're coming.
 * Gary Belvin, Google
 * Evgenios Kornaropoulos, UC Berkeley
 * James Bell, The Alan Turing Institute
-* Phillipp Schoppmann, HIIG
+* Phillipp Schoppmann, HU Berlin
 * Katriel Cohn-Gordon, Facebook
 * Will Shackleton, Facebook
 * Olya Ohrimenko, Microsoft
@@ -40,7 +40,7 @@ to let us know you're coming.
 10:00 - 10:10: 	**Welcome**
 
 10:10 - 11:00:  James Bell, The Alan Turing Institute: *The Privacy Blanket of the Shuffle Model*  
-11:00 - 11:50: 	Phillipp Schoppmann, HIIG: *Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning*  
+11:00 - 11:50: 	Phillipp Schoppmann, HU Berlin: *Make Some ROOM for the Zeros: Data Sparsity in Secure Distributed Machine Learning*  
 11:50 - 12:20: 	Will Shackleton, Facebook: *Facebook Over Tor*
 
 12:20 - 13:20: 	**Lunch**
